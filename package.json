@@ -1,7 +1,7 @@
 {
   "name": "chat-app",
   "productName": "chat-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "My Electron application description",
   "main": ".webpack/main",
   "scripts": {
@@ -24,6 +24,8 @@
     "@electron-forge/plugin-fuses": "^7.2.0",
     "@electron-forge/plugin-webpack": "^7.3.0",
     "@electron/fuses": "^1.7.0",
+    "@types/react": "^18.2.72",
+    "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^5.0.0",
     "@typescript-eslint/parser": "^5.0.0",
     "@vercel/webpack-asset-relocator-loader": "1.7.3",

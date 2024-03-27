@@ -26,4 +26,4 @@
  * ```
  */
 
-import './app.jsx';
+import '../renderer/compontents/app/app.tsx';
